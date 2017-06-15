@@ -1,0 +1,25 @@
+"leaderBoard" : {
+    "items" : [
+      {
+        "markBase": 6.9,
+        "numberOfSV":69,
+        "rankOfUser":100,
+        "class":"Cơ Khí Tự Động Hóa",
+        "numberChoose": 1
+      },
+      {
+        "markBase": 15,
+        "numberOfSV":400,
+        "rankOfUser":600,
+        "class":"Công Nghệ Thông Tin",
+        "numberChoose": 2
+      },
+      {
+        "markBase": 21,
+        "numberOfSV":600,
+        "rankOfUser":1,
+        "class":"Kĩ Thuật Phần Mềm",
+        "numberChoose": 3
+      }
+    ]
+  }
